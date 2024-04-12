@@ -1,4 +1,4 @@
-# rintabyte's discord.js bot template
+# rintobyte's discord.js bot template
 
 ## Getting started
 1. Clone the repository or download the source code
